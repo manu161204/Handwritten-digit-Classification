@@ -16,3 +16,7 @@ This project is a **Streamlit-based web application** that allows users to draw 
 
 ## 📁 Project Structure
 
+├── app.py # Main Streamlit app
+├── model/
+│ └── mnist_v0.pth # Trained CNN model weights
+└── requirements.txt # Python dependencies
